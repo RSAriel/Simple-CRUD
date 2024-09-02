@@ -1,1 +1,0 @@
-INSERT INTO tasks (title, status) VALUES ('Terminar Vídeo', 'Incompleto');
